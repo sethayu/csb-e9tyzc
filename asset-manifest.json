@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://.github.io/csb-e9tyzc/static/js/main.ff9cbf4f.chunk.js",
-    "main.js.map": "https://.github.io/csb-e9tyzc/static/js/main.ff9cbf4f.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-e9tyzc/static/js/runtime-main.e1631a95.js",
-    "runtime-main.js.map": "https://.github.io/csb-e9tyzc/static/js/runtime-main.e1631a95.js.map",
-    "static/js/2.9c00b664.chunk.js": "https://.github.io/csb-e9tyzc/static/js/2.9c00b664.chunk.js",
-    "static/js/2.9c00b664.chunk.js.map": "https://.github.io/csb-e9tyzc/static/js/2.9c00b664.chunk.js.map",
-    "index.html": "https://.github.io/csb-e9tyzc/index.html",
-    "static/js/2.9c00b664.chunk.js.LICENSE.txt": "https://.github.io/csb-e9tyzc/static/js/2.9c00b664.chunk.js.LICENSE.txt"
+    "main.js": "https://sethayu.github.io/csb-e9tyzc/static/js/main.8add781e.chunk.js",
+    "main.js.map": "https://sethayu.github.io/csb-e9tyzc/static/js/main.8add781e.chunk.js.map",
+    "runtime-main.js": "https://sethayu.github.io/csb-e9tyzc/static/js/runtime-main.80ac5f24.js",
+    "runtime-main.js.map": "https://sethayu.github.io/csb-e9tyzc/static/js/runtime-main.80ac5f24.js.map",
+    "static/js/2.9c00b664.chunk.js": "https://sethayu.github.io/csb-e9tyzc/static/js/2.9c00b664.chunk.js",
+    "static/js/2.9c00b664.chunk.js.map": "https://sethayu.github.io/csb-e9tyzc/static/js/2.9c00b664.chunk.js.map",
+    "index.html": "https://sethayu.github.io/csb-e9tyzc/index.html",
+    "static/js/2.9c00b664.chunk.js.LICENSE.txt": "https://sethayu.github.io/csb-e9tyzc/static/js/2.9c00b664.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1631a95.js",
+    "static/js/runtime-main.80ac5f24.js",
     "static/js/2.9c00b664.chunk.js",
-    "static/js/main.ff9cbf4f.chunk.js"
+    "static/js/main.8add781e.chunk.js"
   ]
 }
